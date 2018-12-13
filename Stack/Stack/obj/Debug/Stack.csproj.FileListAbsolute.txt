@@ -1,0 +1,7 @@
+E:\Wantsome\Homework-OOP\Stack\Stack\bin\Debug\Stack.exe.config
+E:\Wantsome\Homework-OOP\Stack\Stack\bin\Debug\Stack.exe
+E:\Wantsome\Homework-OOP\Stack\Stack\bin\Debug\Stack.pdb
+E:\Wantsome\Homework-OOP\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+E:\Wantsome\Homework-OOP\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+E:\Wantsome\Homework-OOP\Stack\Stack\obj\Debug\Stack.exe
+E:\Wantsome\Homework-OOP\Stack\Stack\obj\Debug\Stack.pdb

@@ -1,0 +1,7 @@
+E:\Wantsome\Homework-OOP\LibraryApp\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+E:\Wantsome\Homework-OOP\LibraryApp\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+E:\Wantsome\Homework-OOP\LibraryApp\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+E:\Wantsome\Homework-OOP\LibraryApp\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojAssemblyReference.cache
+E:\Wantsome\Homework-OOP\LibraryApp\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+E:\Wantsome\Homework-OOP\LibraryApp\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+E:\Wantsome\Homework-OOP\LibraryApp\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
